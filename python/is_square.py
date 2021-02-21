@@ -20,3 +20,4 @@ def binary_search_is_square(min,max,n):
         return binary_search_is_square(min,midpoint,n)
     else:
         return True
+		
