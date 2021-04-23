@@ -6,8 +6,6 @@
  * squares contained within some number (bonus/price).
  */
 
-#include <iostream>
-
 int beeramid(int bonus, double price) {
   int remaining = bonus / price;
   int layer = 1;
